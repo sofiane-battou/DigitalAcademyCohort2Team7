@@ -1,0 +1,30 @@
+Contacts:
+
+Logan Lim:
+    Work: Logan.Lim@cra-arc.gc.ca
+    Personal: Logan.Lim.DigitalAcademy@gmail.com
+
+Martin Leduc:
+    Work: Martin.Leduc@nserc-crsng.gc.ca
+    Personal: Martin.Leduc@gmail.com
+
+Angela Wang:
+    Work: Angela.Wang2@canada.ca
+    Personal: angela9wang@gmail.com
+
+
+Emily Manzerolle:
+    Work: Emily.Manzerolle@canada.ca
+    Personal: emily.manzerolle@hotmail.com
+
+Dan Sheehy:
+    Work: Dan.Sheehy@canada.ca
+    personal: dsheehy1989@gmail.com
+
+Somaieh Nikpoor:
+    Work: somaieh.nikpoor@hrsdc-rhdce.gc.ca
+    Personal: smnikpoor@gmail.com
+
+Najm Dost
+    personal: najimdost@gmail.com
+    work: dost.najim@cfmws.com
