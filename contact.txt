@@ -2,7 +2,7 @@ Contacts:
 
 Logan Lim:
     Work: Logan.Lim@cra-arc.gc.ca
-    Personal: Logan.Lim.DigitalAcademy@gmail.com
+    Personal: Logan.Lim.DigitalAcademy@gmail.coma
 
 Martin Leduc:
     Work: Martin.Leduc@nserc-crsng.gc.ca
